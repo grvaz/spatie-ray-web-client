@@ -1,5 +1,6 @@
 Browser version for Spatie Ray.
-This lightweight client wrote with raw PHP and jQuery and using Server-Sent Events (SSE).
+This lightweight client wrote with raw PHP and jQuery.\
+It uses Server-Sent Events (SSE) for no-F5 effect :)) and works almost like proprietary Spatie client. 
 
 For Yii2:\
 Place file ray.php into root Yii2 project dir and set your host in it (I run this web client on ray.test locally)\
