@@ -1,4 +1,5 @@
-Browser version for Spatie Ray based on Server Sent Events (SSE).
+Browser version for Spatie Ray.
+This lightweight client wrote with raw PHP and jQuery and using Server-Sent Events (SSE).
 
 For Yii2:\
 Place file ray.php into root Yii2 project dir and set your host in it (I run this web client on ray.test locally)\
