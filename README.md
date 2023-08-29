@@ -1,4 +1,4 @@
-Browser version for Spatie Ray\
+Browser version for Spatie Ray based on Server Sent Events (SSE).\
 https://spatie.be/docs/ray/v1/introduction
 
 For Yii2:\
